@@ -1,4 +1,4 @@
-#youtube channel
+#youtube
 https://www.youtube.com/watch?v=vRjRTv7jlJ0
 
 
@@ -14,3 +14,6 @@ report will generate on every run
 datewise folder:
 /target/pit-reports/202004131658/index.html
 
+
+# Types of Mutators
+https://pitest.org/quickstart/mutators/
